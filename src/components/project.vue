@@ -19,9 +19,9 @@
         >
 
           <div class="project-card-header">
-            <button 
-              class="dianji" 
-              @click="navToCardLink">
+            <button
+              class="dianji"
+              @click="navToCardLink(item)">
               在线演示
             </button>
             <div class="project-card-name">
@@ -57,43 +57,43 @@ export default {
         {
           cardTitle: "「彩票娱乐城net综合盘」" ,
           cardIntro:
-            "彩票娱乐城net综合盘。可以对接棋牌AG视讯，" +
+            "彩票+娱乐城综合盘。可以对接棋牌AG视讯，" +
             "包括个大平台开户." +
-            "联系qq:532222521",
+            "联系qq:532222521"+'      微信: top2191',
 
           cardImage:"https://cdn.guaiwola.com//yanshi/tianhang.png",
           navToCardLink:"http://cai1.a55a66.com"
         },
         {
-          cardTitle: "「纯娱乐城net」",
+          cardTitle: "「乐购28彩票视讯棋牌vue」",
           cardIntro:
-            "百家乐棋牌娱乐城net综合盘。联系qq:532222521",
+            "乐购28彩票视讯棋牌vue综合盘。联系qq:532222521",
 
-          cardImage: "http://ag.52miduo.com/uploads/20190115/ec8375f6883cbc6973eda1711b393159.png",
+          cardImage: "http://a7.gg/themes/simplebootx/Public/images/legou.png",
           navToCardLink:"http://cai1.a55a66.com"
         },
         {
-          cardTitle: "「彩票娱乐城net综合盘」",
+          cardTitle: "「彩票+娱乐城net综合盘」",
           cardIntro:
             "彩票娱乐城net综合盘。联系qq:532222521",
 
-          cardImage: "http://ag.52miduo.com/uploads/20190115/82e4c966d29e4d235d77e993b6c161db.png",
+          cardImage: "http://a7.gg/themes/simplebootx/Public/images/huaqiao.png",
           navToCardLink:"http://cai1.a55a66.com"
         },
         {
-          cardTitle: "「彩票娱乐城net综合盘」",
+          cardTitle: "「客拉客彩票娱乐城VUE」",
           cardIntro:
-            "彩票娱乐城net综合盘。联系qq:532222521",
+            "客拉客彩票娱乐城VUE综合盘，新开发版本。联系qq:532222521",
 
-          cardImage: "http://ag.52miduo.com/uploads/20190115/de7e36196a1e0efef74d1339bae91812.png",
+          cardImage: "https://cdn.guaiwola.com/klk2.png",
           navToCardLink:"http://cai1.a55a66.com"
         },
         {
-          cardTitle: "「彩票娱乐城net综合盘」",
+          cardTitle: "「环球娱乐彩票娱乐城VUE」",
           cardIntro:
-            "彩票娱乐城net综合盘。联系qq:532222521",
+            "球娱乐彩票娱乐城VUE综合盘。联系qq:532222521",
 
-          cardImage: "http://ag.52miduo.com/uploads/20190115/a1e888a64dcbe7b9c69a80abc2dc1543.png",
+          cardImage: "https://cdn.guaiwola.com/klk1.png",
           navToCardLink:"http://cai1.a55a66.com"
         },
         {

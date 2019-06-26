@@ -12,20 +12,18 @@
               class="mail-paragragh"
               @click="mailToQingYou"
             >
-              官方邮箱
+              联系QQ:532222521
             </p>
             <p
               class="mail-paragragh"
               @click="mailToQingYou"
-            >
-              532222521@qq.com
             </p>
             <br>
             <br>
           </div>
         </div>
         <div class="bottom">
-          <p>CopyRight @2017-2019 青柚工作室 qingyou.njupt.edu.cn</p>
+          <p>CopyRight @2017-2019 青柚工作室</p>
         </div>
       </div>
     </div>
