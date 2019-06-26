@@ -65,7 +65,7 @@ export default {
           navToCardLink:"http://cai1.a55a66.com"
         },
         {
-          cardTitle: "「乐购28彩票视讯棋牌vue」",
+          cardTitle: "「乐购28彩票视讯vue」",
           cardIntro:
             "乐购28彩票视讯棋牌vue综合盘。联系qq:532222521",
 
